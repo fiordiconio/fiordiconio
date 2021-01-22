@@ -4,7 +4,8 @@
 - Linux Enthusiastics 
 - Automation Fanatic 
 - Arduino Lover 
-- Android Fun
+- Android Fan
+- Minimalistic lifestyle
 
 ## *Programming languages:*
 - C++
@@ -15,6 +16,7 @@
 - Php
 - HTML, CSS
 
+<--! to add work and to optimize everything ->
 ## *Linux Setup*
 - OS : *Arch Linux x64*
 > i use arch btw
