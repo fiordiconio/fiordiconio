@@ -24,3 +24,4 @@
 - WM : *i3*
 - Editor : *Vim*
 - Terminal : *Xterm*
+- Browser : *Brave*
