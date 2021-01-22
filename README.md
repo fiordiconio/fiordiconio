@@ -16,7 +16,7 @@
 - Php
 - HTML, CSS
 
-<--! to add work and to optimize everything -->
+<!-- to add work and to optimize everything -->
 ## *Linux Setup*
 - OS : *Arch Linux x64*
 > i use arch btw
