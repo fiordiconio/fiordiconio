@@ -7,11 +7,11 @@
   <li> Arduino Lover </li>
 </ol>  
 <hr>
+
 ## *Programming languages:*
 <ol>
   <li> C++, C </li>
   <li> Python </li>
   <li> Bash </li>
   <li> Php </li>
-  
 </ol>  
