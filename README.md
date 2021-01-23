@@ -36,9 +36,9 @@
 <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fbrave.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fbrave-logo.png&sp=1611391386Tf1d7ba701d2578542c24e4168eb10d2c039fbd1dcaa133fe62a0bdfa5446ad83" width="20" heigth="20"> </img>
 
 ## *Outgoing project*
-- [] Arch Linux installation script in Bash
-- [] Python tensorflow aimbot based
-- [] Android debloating script, for Windows
-- [] Create a unity3d game
-- [] Arduino stuff
+- [ ] Arch Linux installation script in Bash
+- [ ] Python tensorflow aimbot based
+- [ ] Android debloating script, for Windows
+- [ ] Create a unity3d game
+- [ ] Arduino stuff
 - [X] test
