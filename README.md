@@ -1,10 +1,5 @@
 # **fiordiconio** ❤️.❤️
 
-## *Hobbies:*
-- Minimalistic lifestyle
-- Fortnite player 
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FFortnite%2FFortnite-Logo.wine.png&sp=1611391623Teea6a6c1a561c6f3484d5945cacfddab3275c5b55b7010ee81b837d453d7e18a" width="100" heigth="60"> </img>
-
 ## *IT Hobbies:*
 - Linux Enthusiast 
 - Automation Fanatic 
@@ -25,8 +20,7 @@
 - Bash
 - Php
 - SQL
-- HTML, CSS
-> i know they are not considered programming languages btw
+- HTML, CSS -> i know they are not considered programming languages btw
 
 ## *Linux Setup*
 - OS : *Arch Linux x64*
@@ -42,9 +36,9 @@
 <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fbrave.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fbrave-logo.png&sp=1611391386Tf1d7ba701d2578542c24e4168eb10d2c039fbd1dcaa133fe62a0bdfa5446ad83" width="20" heigth="20"> </img>
 
 ## *Outgoing project*
-[] Arch Linux installation script in Bash
-[] Python tensorflow aimbot based
-[] Android debloating script, for Windows
-[] Create a unity3d game
-[] Arduino stuff
-[X] test
+- [] Arch Linux installation script in Bash
+- [] Python tensorflow aimbot based
+- [] Android debloating script, for Windows
+- [] Create a unity3d game
+- [] Arduino stuff
+- [X] test
