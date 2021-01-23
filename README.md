@@ -3,7 +3,7 @@
 ## *Hobbies:*
 - Minimalistic lifestyle
 - Fortnite player 
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FFortnite%2FFortnite-Logo.wine.png&sp=1611391623Teea6a6c1a561c6f3484d5945cacfddab3275c5b55b7010ee81b837d453d7e18a" width="30" heigth="20"> </img>
+<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fdownload.logo.wine%2Flogo%2FFortnite%2FFortnite-Logo.wine.png&sp=1611391623Teea6a6c1a561c6f3484d5945cacfddab3275c5b55b7010ee81b837d453d7e18a" width="50" heigth="30"> </img>
 
 ## *IT Hobbies:*
 - Linux Enthusiast 
