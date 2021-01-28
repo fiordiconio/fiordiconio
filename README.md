@@ -20,7 +20,7 @@
 - Bash
 - Php
 - SQL
-- HTML, CSS -> i know they are not considered programming languages btw
+- HTML, CSS > i know they are not considered programming languages btw
 
 ## *Linux Setup*
 - OS : *Arch Linux x64*
