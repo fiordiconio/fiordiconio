@@ -1,15 +1,14 @@
 # **fiordiconio** ❤️.❤️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Arduino-Lover-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Android-Modding-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-
-## *IT Hobbies:*
-- Linux Enthusiast 
-- Automation Fanatic 
-- Arduino Lover 
-- Android Modding
 
 ## *Skills:*
 - Bash scripting
@@ -37,6 +36,8 @@
 - [ ] Python Email reader
 - [ ] Create a unity3d game
 - [ ] Arduino stuff
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical)
 
 <a href="https://stackoverflow.com/"> When coding </a><br>
 <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
