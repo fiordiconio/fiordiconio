@@ -22,7 +22,7 @@
 - Browser : *Brave*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danBamikiya&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
 
 <a href="https://stackoverflow.com/"> When coding </a><br>
 <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
