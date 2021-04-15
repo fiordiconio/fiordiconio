@@ -20,7 +20,7 @@
 - Terminal : *Xterm*
 - Browser : *Brave*
 ---
-<table cellspacing='0' border='0'>
+<table style="border-collapse: collapse" cellspacing='0' border='0'>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats"" />
