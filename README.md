@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical)
 
+![](https://img.shields.io/badge/<OS>-<Linux>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 ## *IT Hobbies:*
 - Linux Enthusiast 
 - Automation Fanatic 
@@ -14,16 +17,6 @@
 - C# Unity 3d scripting
 - Broking every now and then my android system
 
-## *Programming languages:*
-- C++
-- C
-- C#
-- Python
-- Bash
-- Php
-- SQL
-- HTML, CSS
-> i know they are not considered programming languages btw
 
 ## *Linux Setup*
 - OS : *Arch Linux x64*
