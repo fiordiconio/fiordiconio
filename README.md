@@ -20,13 +20,29 @@
 - Terminal : *Xterm*
 - Browser : *Brave*
 ---
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical" />
-
-
-<a href="https://stackoverflow.com/"> When coding </a><br>
-<a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
-<br><br>
-<img src="animation.gif"></img>
-<br>
-<a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?       username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+    </td>
+    <td>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+  <tr> 
+    <td>
+      <a href="https://stackoverflow.com/"> When coding </a><br>
+    </td>
+    <td>
+      <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="animation.gif"></img>
+    </td>
+    <td>
+      <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
+    </td>
+  </tr>
+ </table>
