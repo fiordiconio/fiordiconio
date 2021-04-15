@@ -1,5 +1,7 @@
 # **fiordiconio** ❤️.❤️
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiordiconio)](https://github.com/anuraghazra/github-readme-stats)
+
 ## *IT Hobbies:*
 - Linux Enthusiast 
 - Automation Fanatic 
