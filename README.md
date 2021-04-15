@@ -3,19 +3,12 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Lover-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Android-Modding-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
 
 ## *Skills:*
-- Bash scripting
-- Python webscraping
-- C# Unity 3d scripting
-- Broking every now and then my android system
-
+<img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" width="20" heigth="20"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="20" heigth="20"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C-Sharp.png/1200px-C-Sharp.png" width="20" heigth="20"> </img>
+<img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="20" heigth="20"> </img>
 
 ## *Linux Setup*
 - OS : *Arch Linux x64*
