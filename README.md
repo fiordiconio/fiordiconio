@@ -20,12 +20,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" width="30" heigth="30"> </img>
 - Terminal : *Xterm*
 - Browser : *Brave*
-<a
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
-/a>
-<a
+</a>
+<a>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&count_private=true&show_icons=true&theme=radical" />
-/a>
+</a>
 
 <a href="https://stackoverflow.com/"> When coding </a><br>
 <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
