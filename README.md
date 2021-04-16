@@ -31,17 +31,19 @@
   </tr>
   <tr> 
     <td>
-      <a align="center" href="https://stackoverflow.com/"> When coding </a><br>
+      <p align="center">
+        <a href="https://stackoverflow.com/"> When coding </a>
+      </p>
     </td>
     <td>
-      <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+      <p align="center">
+        <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+      </p>
     </td>
   </tr>
   <tr>
     <td>
       <img align="center" src="animation.gif"></img>
-    </td>
-    <td>
       <a align="center" href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
     </td>
   </tr>
