@@ -23,26 +23,26 @@
 <table style="border-collapse: collapse" cellspacing='0' border='0'>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats"" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats"" />
     </td>
     <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
     </td>
   </tr>
   <tr> 
     <td>
-      <a href="https://stackoverflow.com/"> When coding </a><br>
+      <a align="center" href="https://stackoverflow.com/"> When coding </a><br>
     </td>
     <td>
-      <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+      <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="animation.gif"></img>
+      <img align="center" src="animation.gif"></img>
     </td>
     <td>
-      <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
+      <a align="center" href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
     </td>
   </tr>
  </table>
