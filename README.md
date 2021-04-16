@@ -32,14 +32,10 @@
   </tr>
   <tr> 
     <td style="border: 0;">
-      <p align="center">
-        <a href="https://stackoverflow.com/"> When coding </a>
-      </p>
+      <a align="center" href="https://stackoverflow.com/"> When coding </a>
     </td style="border: 0;">
     <td>
-      <p align="center">
-        <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
-      </p>
+      <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
     </td>
   </tr>
   <tr>
