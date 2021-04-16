@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center" src="animation.gif"></img>
+      <img align="center" src="animation.gif"></img><br>
       <a align="center" href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
     </td>
   </tr>
