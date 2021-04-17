@@ -52,8 +52,6 @@
   </br>
   Littlepip:
   > I would fight to make that brigther and innocent past our future once again. Even if it means dashing myself against the evil and cruelty of this wasteland until there is nothing left of me.
-  </br>
-  </br>
   Mikaelson Family:
   > Always and forever.
   </br>
