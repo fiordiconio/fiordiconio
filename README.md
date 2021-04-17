@@ -3,7 +3,7 @@
 
 ### Languages/Framework I am fairly good at:
 
-<a href="https://www.python.org/" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="50" heigth="50"> </a>
+<a href="https://www.python.org/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="50" heigth="50"> </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50" heigth="50">
 <img src="https://tecadmin.net/tutorial/wp-content/uploads/2017/09/bash-logo.jpg" width="50" heigth="50"> </img>
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="50" heigth="50"> </img>
