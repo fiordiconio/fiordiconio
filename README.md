@@ -48,14 +48,19 @@
 </div>
 
 <div align="center">
-  <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"></img>
 </div>
+
+</br>
+</br>
+
 <div align="center">
   <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img align="center" src="animation.gif"></img></a>
 </div>
 
-
+</br>
+</br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"></img>
+  <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
 </div>
