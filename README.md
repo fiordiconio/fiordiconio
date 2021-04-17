@@ -38,10 +38,10 @@
   <a href="https://brave.com/"><img src="https://brave.com/wp-content/uploads/2019/03/brave-logo.png" width="50" heigth="50"></img></a>
   <a href="https://www.microsoft.com/it-it/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" width="50" heigth="50"></img></a>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f" />
-  <a align="center" href="https://stackoverflow.com/"> When coding </a>
-  <a align="center" href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
-  <img src="animation.gif"></img><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"></img>
+  <a href="https://stackoverflow.com/"> When coding </a>
+  <a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
+  <img src="animation.gif"></img>
   <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"> Source </a>
 </div>
