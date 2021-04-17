@@ -1,4 +1,4 @@
-# align="center"> Hi! I am Mattia 
+# Hi! I am Mattia 
 <p align="center">
 Current studying: Indutry 4.0
 </p>
