@@ -1,5 +1,13 @@
-### fiordiconio ❤️.❤️
+<h1 align="center"> Hi! I am Mattia </h1>
 
+
+<h2 align="center"> Languages/Framework I am fairly good at </h2>
+<h2 align="center"> Languages/Framework I try to be good at </h2>
+<h2 align="center"> Languages/Framework I am learning to be good at </h2>
+<h2 align="center"> Environments I work with </h2>
+
+<h2 align="center"> Languages/Framework I try to be good at </h2>
+<h2 align="center"> Languages/Framework I try to be good at </h2>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Arduino-Lover-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -9,6 +17,22 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="50" heigth="50"> </img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C-Sharp.png/1200px-C-Sharp.png" width="50" heigth="50"> </img>
 <img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/1280px-Arduino_Logo.svg.png" width="50" heigth="80"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width="50" heigth="50"> </img>
+<img src="https://www.php.net//images/logos/new-php-logo.svg" width="50" heigth="50"> </img>
+<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" width="50" heigth="50"> </img>
+<img src="https://brave.com/wp-content/uploads/2019/03/brave-logo.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Icon_of_XTerm_%28from_2012%29.svg/1200px-Icon_of_XTerm_%28from_2012%29.svg.png" width="50" heigth="50"> </img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="50" heigth="50"> </img>
+<img src="https://p.kindpng.com/picc/s/171-1718053_html-css-javascript-png-transparent-png.png" width="100" heigth="70"> </img>
+<img src="" width="50" heigth="50"> </img>
+<img src="" width="50" heigth="50"> </img>
+<img src="" width="50" heigth="50"> </img>
+<img src="" width="50" heigth="50"> </img>
 ---
 ### Setup
 - OS : *Arch Linux x64*
