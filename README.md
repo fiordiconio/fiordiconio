@@ -15,11 +15,11 @@
 
 ### Languages/Framework I would like to improve:
 
-<a href="https://www.w3schools.com/cs/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C-Sharp.png/1200px-C-Sharp.png" width="50" heigth="50"></img></a>
+<a href="https://www.w3schools.com/cs/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/C-Sharp.png/1200px-C-Sharp.png" width="50" heigth="50"></img></a>
 <a href="https://www.cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width="50" heigth="50"></img></a>
 <a href="https://www.w3schools.com/html/"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="50" heigth="50"></img></a>
 <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50" heigth="50"></img></a>
-<a href="https://www.ambrix.net/wp-content/uploads/2019/05/javascript-logo.png" width="50" heigth="50"></img></a>
+<a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://www.ambrix.net/wp-content/uploads/2019/05/javascript-logo.png" width="50" heigth="50"></img></a>
 
 ### Languages/Framework I would like to learn:
 
