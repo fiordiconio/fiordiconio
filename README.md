@@ -48,7 +48,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"></img>
   </br>
   </br>
-    <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img src="animation.gif"></img></a>
+  <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img src="animation.gif"></img></a>
+  </br>
   Littlepip:
   > I would fight to make that brigther and innocent past our future once again. Even if it means dashing myself against the evil and cruelty of this wasteland until there is nothing left of me.
   </br>
