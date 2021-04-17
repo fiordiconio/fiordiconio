@@ -43,11 +43,12 @@
 ## Not IT related things
 
 ### Hobbies:
-
-  *Reading :books:
-  *Walking :walking:
-  *Sudoku
-  *Chess
+<pre>
+  * Reading :books:
+  * Walking :walking:
+  * Sudoku
+  * Chess
+</pre>
 
 </div>
 
