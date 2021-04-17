@@ -1,5 +1,7 @@
-<h1 align="center"> Hi! I am Mattia </h1>
-test
+# align="center"> Hi! I am Mattia 
+<p align="center">
+Current studying: Indutry 4.0
+</p>
 
 <div align="center">
 
