@@ -1,4 +1,5 @@
 <h1 align="center"> Hi! I am Mattia </h1>
+test
 
 <div align="center">
 
@@ -48,7 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiordiconio&hide=html&bg_color=031a1f&title_color=bdddff&text_color=44a7c4&icon_color=0e6b7f"></img>
   </br>
   </br>
-    <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img align="center" src="animation.gif" width="300"></img></a>
+    <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img src="animation.gif"></img></a>
   </br>
   </br>
     <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
