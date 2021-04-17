@@ -39,6 +39,16 @@
   <a href="https://brave.com/"><img src="https://brave.com/wp-content/uploads/2019/03/brave-logo.png" width="50" heigth="50"></img></a>
   <a href="https://www.microsoft.com/it-it/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" width="50" heigth="50"></img></a>
 
+
+## Not IT related things
+
+### Hobbies:
+
+  *Reading :books:
+  *Walking :walking:
+  *Sudoku
+  *Chess
+
 </div>
 
 <div align="center">
@@ -49,5 +59,7 @@
 <div align="center">
   <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
 </div>
-<a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img align="center" src="animation.gif"></img></a>
+<div align="center">
+  <a href="https://www.deviantart.com/argodaemon/art/Heroes-Will-Rise-584487754"><img align="center" src="animation.gif"></img></a>
+</div>
 
