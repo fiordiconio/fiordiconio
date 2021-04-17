@@ -1,10 +1,10 @@
 <h1 align="center"> Hi! I am Mattia </h1>
 
 
-<h2 align="center"> Languages/Framework I am fairly good at </h2>
-<h2 align="center"> Languages/Framework I try to be good at </h2>
-<h2 align="center"> Languages/Framework I am learning to be good at </h2>
-<h2 align="center"> Environments I work with </h2>
+### align="center"> Languages/Framework I am fairly good at:
+### align="center"> Languages/Framework I try to be good at:
+### align="center"> Languages/Framework I am learning to be good at:
+### align="center"> Environments I work with:
 
 <h2 align="center"> Languages/Framework I try to be good at </h2>
 <h2 align="center"> Languages/Framework I try to be good at </h2>
