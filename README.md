@@ -18,6 +18,7 @@
   <a href="https://www.w3schools.com/css/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="45" heigth="50"></img></a>
   <a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://www.ambrix.net/wp-content/uploads/2019/05/javascript-logo.png" width="50" heigth="55"></img></a>
   <a href="https://laravel.com/"><img src="https://www.zend.com/sites/zend/files/image/2019-09/logo-laravel.jpg" width="65" heigth="50"></img></a>
+  <a href="https://unity.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="65" heigth="50"></img></a>
 
 #### Languages/Framework/IT_things I would like to improve:
 
