@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi! I am Mattia </h1>
-  <h3> Current studying: Industry 4.0 </h3>
+  <h3> Currently studying: Industry 4.0 </h3>
 
 #### Languages/Framework/IT_things I am fairly good at:
 
