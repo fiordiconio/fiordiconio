@@ -58,6 +58,7 @@
   </br>
   <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
 </div>
+<<<<<<< HEAD
 
 ciao
 
