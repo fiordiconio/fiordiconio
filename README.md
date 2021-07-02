@@ -3,7 +3,7 @@
   <h3> Currently studying: Industry 4.0 </h3>
 
 #### Languages/Framework/IT_things I am fairly good at:
-
+test
   <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" width="50" heigth="50"></img></a>
   <a href="https://www.android.com/"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="50" heigth="50"></img></img></a>
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="50" heigth="50"></img></a>
