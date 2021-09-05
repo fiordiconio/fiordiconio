@@ -19,6 +19,7 @@
   <a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://www.ambrix.net/wp-content/uploads/2019/05/javascript-logo.png" width="50" heigth="55"></img></a>
   <a href="https://laravel.com/"><img src="https://www.zend.com/sites/zend/files/image/2019-09/logo-laravel.jpg" width="65" heigth="50"></img></a>
   <a href="https://unity.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/1280px-Unity_Technologies_logo.svg.png" width="65" heigth="60"></img></a>
+  <a href="https://www.docker.com/"><img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" width="50" heigth="55"></img></a>
 
 #### Languages/Framework/IT_things I would like to improve:
 
@@ -42,7 +43,7 @@
   * Reading :books:
   * Walking :walking:
   * Sudoku
-  * Chess
+  * Aquathlon
   * Tv series
 
   <img src="https://github-readme-stats.vercel.app/api?username=fiordiconio&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f"></img>
