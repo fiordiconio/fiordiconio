@@ -8,8 +8,6 @@
   <a href="https://i3wm.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width="50" heigth="50"></img></a>
   <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" width="50" heigth="50"></img></a>
   <a href="https://en.wikipedia.org/wiki/Xterm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Icon_of_XTerm_%28from_2012%29.svg/1200px-Icon_of_XTerm_%28from_2012%29.svg.png" width="50" heigth="50"></img></a>
-  <a href="https://brave.com/"><img src="https://brave.com/wp-content/uploads/2019/03/brave-logo.png" width="50" heigth="50"></img></a>
-  <a href="https://www.microsoft.com/it-it/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" width="50" heigth="50"></img></a>
 
 ### Hobbies:
   * Reading :books:
