@@ -2,13 +2,6 @@
   <h1> Hi! I am Mattia </h1>
   <h3> Currently studying: Industry 4.0 </h3>
 
-#### Things I work with:
-
-  <a href="https://archlinux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1024px-Archlinux-icon-crystal-64.svg.png" width="50" heigth="50"></img></a>
-  <a href="https://i3wm.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg" width="50" heigth="50"></img></a>
-  <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1022px-Vimlogo.svg.png" width="50" heigth="50"></img></a>
-  <a href="https://en.wikipedia.org/wiki/Xterm"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Icon_of_XTerm_%28from_2012%29.svg/1200px-Icon_of_XTerm_%28from_2012%29.svg.png" width="50" heigth="50"></img></a>
-
 ### Hobbies:
   * Reading :books:
   * Walking :walking:
@@ -27,5 +20,3 @@
   Mikaelson Family:
   > Always and forever.
   </br>
-  <a href="https://stackoverflow.com/"> When coding </a><br><a href="https://www.reddit.com/r/ProgrammerHumor/"> When in pause from coding </a>
-</div>
