@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi! I am Mattia </h1>
-  <h3> Currently studying: Industry 4.0 </h3>
+  <h3> Currently studying: IT Engineering </h3>
 
 ### Hobbies:
   * Reading :books:
